@@ -1,1 +1,1 @@
-Estudiantes de los cursos de ingeniería del conocimiento y alfabetización digital del profesor Gilberto Ramírez en UPIICSA-IPN colaboran para construir un sistema de tutoría inteligente para desarrollar la competencia de aprender a aprender.
+Estudiantes de los cursos de ingeniería del conocimiento y alfabetización digital en UPIICSA-IPN colaboran para construir un sistema de tutoría inteligente para construir un andamiaje didáctico digital para aprender a aprender.
